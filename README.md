@@ -9,3 +9,5 @@ config.py 구성
 - etoos_id = <Confluence ID>
 - etoos_pw = <Confluence PW>
 - serviceKey = <공동데이터 Open API serviceKey>
+
+공공데이터 Open API : https://data.go.kr/uim/login/loginView.do
