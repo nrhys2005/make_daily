@@ -6,8 +6,8 @@ selenium, 공공데이터 Open API를이용한 회의록 자동생성
 2. https://sites.google.com/a/chromium.org/chromedriver/downloads 같은 버전 다운르드
 
 config.py 구성
-- etoos_id = <Confluence ID>
-- etoos_pw = <Confluence PW>
+- etoos_id = < Confluence ID >
+- etoos_pw = < Confluence PW >
 - serviceKey = <공동데이터 Open API serviceKey>
 
 공공데이터 Open API : https://data.go.kr/uim/login/loginView.do
