@@ -14,7 +14,7 @@ etoos_id = config.etoos_id
 etoos_pw = config.etoos_pw
 serviceKey = config.serviceKey
 
-today = .today()
+today = datetime.today()
 #today = datetime(2021,5,5)
 # 공공데이터 OPEN API query 생성(특일정보)
 def get_request_query(url, operation, params, serviceKey):
